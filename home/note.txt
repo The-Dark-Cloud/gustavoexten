@@ -1,0 +1,9 @@
+<div class="uk-margin-xlarge-left uk-margin-xlarge-right">
+            <div class="uk-margin uk-card uk-card-secondary uk-card-body ">
+               <h4>Title</h4>
+								<p></p>
+               <a class="uk-button-text uk-text-decoration-none" href="">
+               <span uk-icon="icon: link">
+               </span>Download link name</a>
+            </div>
+</div>
